@@ -1,0 +1,54 @@
+{
+  "name": "mongoose-hook-ensure-indexes",
+  "version": "0.1.1",
+  "description": "A mongoose plugin, improving 'Model.ensureIndexes' method, allowing also deletion of unused indexes and reindexing with changed options.",
+  "license": "MIT",
+  "homepage": "https://github.com/tarquas/mongoose-hook-ensure-indexes",
+  "main": "./lib/v0/index.js",
+
+  "dependencies": {
+  },
+
+  "files": [
+    "./lib/v0/*"
+  ],
+
+  "bugs": {
+    "url": "https://github.com/tarquas/mongoose-hook-ensure-indexes/issues",
+    "email": "tarquas@gmail.com"
+  },
+  
+  "directories": {
+    "lib": "./lib"
+  },
+  
+  "keywords": [
+    "mongoose",
+    "plugin",
+    "hook",
+    "mongoose-hook",
+    "ensure",
+    "index",
+    "ensureindexes",
+    "drop",
+    "reindex",
+    "autoindex",
+    "mongo"
+  ],
+  
+  "author": {
+    "name": "Taras Mykhailovych",
+    "email": "tarquas@gmail.com",
+    "url": "http://194.44.203.87/tarquas/"
+  },
+  
+  "contributors": [
+    {"name": "Staff.com", "url": "https://staff.com/"},
+    {"name": "Time Doctor", "url": "https://timedoctor.com/"}
+  ],
+  
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/tarquas/mongoose-hook-ensure-indexes.git"
+  }
+}
