@@ -9,7 +9,7 @@ git clone git@github.com:tarquas/mongoose-hook-ensure-indexes.git mongoose-hook-
 # Package
 ```js
 {
-  "mongoose-hook-ensure-indexes": "tarquas/mongoose-hook-ensure-indexes"
+  "mongoose-hook-ensure-indexes": "tarquas/mongoose-hook-ensure-indexes#5a22a2763f"
 }
 ```
 
