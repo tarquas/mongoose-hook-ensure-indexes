@@ -1,6 +1,6 @@
 {
   "name": "mongoose-hook-ensure-indexes",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A mongoose plugin, improving 'Model.ensureIndexes' method, allowing also deletion of unused indexes and reindexing with changed options.",
   "license": "MIT",
   "homepage": "https://github.com/tarquas/mongoose-hook-ensure-indexes",
